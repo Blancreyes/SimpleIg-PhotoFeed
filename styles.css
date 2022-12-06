@@ -1,0 +1,24 @@
+body{margin: 0;font-family:"Helvetica";}
+header{text-align: center;}
+section{background: white;padding-top: 30px;}
+div.header{padding: 30px;}
+div.header h2{
+    margin: 0;
+    font-size: 30px;
+    display: inline-block;
+}
+.box .header .date{
+    float: right;
+    margin: 0;
+}
+.box{
+    background-color: white;
+    width: 600px;
+    margin: auto;
+    margin-bottom: 15px;
+    margin-top: 30px;
+    border: 1px solid #edeeee;
+    border-radius: 5px;
+}
+img{width: 100%;}
+div.desciption{padding: 30px; margin: 0;}
